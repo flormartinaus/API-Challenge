@@ -1,1 +1,5 @@
 # API-Challenge
+
+This project showcases my knowledge in Python programming and problem-solving skills. Using the citipy library and the OpenWeatherMap API, I have created a comprehensive Python script that generates visualizations of weather data for over 500 cities located at varying distances from the equator. The script includes the computation of linear regression for different sets of relationships and the creation of scatter plots.
+
+In the second part of the project, I have leveraged my knowledge of Jupyter notebooks, the geoViews library, and the Geoapify API to develop a code that plans future vacations. The code utilizes geo-spatial data to identify ideal travel destinations and provide recommendations based on user preferences. This project showcases my proficiency in various Python libraries and APIs, as well as my ability to develop effective and user-friendly applications.
